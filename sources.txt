@@ -1,0 +1,11 @@
+# Blocklists merged into blocklist.txt
+# One URL per line. Lines starting with # are ignored.
+# Hosts-file, plain-domain and Adblock-style (||domain^) lists are all supported.
+
+https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
+https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
+https://phishing.army/download/phishing_army_blocklist_extended.txt
+https://raw.githubusercontent.com/danhorton7/pihole-block-tiktok/main/tiktok.txt
+https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-porn-only/hosts
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif.txt

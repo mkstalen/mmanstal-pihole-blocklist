@@ -1,0 +1,4 @@
+# Domains to remove from the merged list (exact match), one per line.
+# Lines starting with # are ignored.
+# Example:
+# example.com
